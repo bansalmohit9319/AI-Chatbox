@@ -1,0 +1,5 @@
+AI is Artificial Intelligence that mimics human thinking.
+Python is a programming language used in AI and web development.
+Machine Learning is a subset of AI that learns from data.
+NLP stands for Natural Language Processing.
+ChatGPT is an AI model that understands and generates text.
